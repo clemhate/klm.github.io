@@ -1,6 +1,3 @@
-theme: jekyll-theme-minimal
-title: KLM's blog
-description: Write ups and stuff
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: KLM's Blog
+description: Stuff around cryptocurrencies and web3 security
+theme: jekyll-theme-hacker
