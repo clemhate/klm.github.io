@@ -1,4 +1,4 @@
+---
+---
 
-body {
-    filter: grayscale(100%);
-}
+@import 'jekyll-theme-hacker';
